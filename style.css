@@ -1,0 +1,18 @@
+.light-bg{
+    background-color: #EAEAEA
+}
+
+.med-bg{
+    background-color: #C0D6DF
+}
+
+.button{
+    background-color: #4F6D7A;
+    color: #EAEAEA;
+    margin: 14px;
+}
+
+.summary{
+    padding-top: 30px;
+    font-size: 20px;
+}
