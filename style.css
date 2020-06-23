@@ -9,10 +9,31 @@
 .button{
     background-color: #4F6D7A;
     color: #EAEAEA;
-    margin: 14px;
+    margin: 8px;
+}
+
+.btn:hover {
+    color: white;
+    cursor: pointer;
+    background-color: #DD6E42;
 }
 
 .summary{
     padding-top: 30px;
     font-size: 20px;
+}
+
+.nav-item a:hover {
+    color: white !important;
+    cursor: pointer;
+    background-color: #DD6E42 !important;
+}
+
+.nav-item a:focus{
+    color: white !important;
+    background-color: #DD6E42 !important;
+}
+
+.image{
+    padding: 8px, 8px, 8px, 8px;
 }
